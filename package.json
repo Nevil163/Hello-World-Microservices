@@ -1,0 +1,11 @@
+{
+  "name": "hello-world-microservices",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "mocha test/integration.test.js"
+  },
+  "devDependencies": {
+    "mocha": "^10.0.0",
+    "axios": "^1.0.0"
+  }
+}
