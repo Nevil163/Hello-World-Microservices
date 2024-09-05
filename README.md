@@ -74,5 +74,3 @@
 > 9. Go to the project directory
 >    * run "npm test"
 
-
-### Results
