@@ -27,7 +27,7 @@
 >   * nevil163/hello-service 
 
 > * World application docker image
->   * nevil163/world-serice
+>   * nevil163/world-service
  
 
 > 1. To run and pull Hello application using docker image, run following commands
